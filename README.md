@@ -11,4 +11,10 @@ the following for e.g.
 over all coverage of around 85%
 - Integration test is written for the controller file - HumanFriendlyTimeRestControllerIntegrationTest
 
+# To get the current time as a human friendly text
+- Run the file called HumanFriendlyCurrentTime.java
+
+# Command line based Input
+- To pass the time parameter from the command line and get the equivalent
+human friendly time printed run the filed called HumanFriendlyTime.java
 
